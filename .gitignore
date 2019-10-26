@@ -1,0 +1,10 @@
+# Don't track the contents of these folders
+local_files/
+venv/
+
+# File Types
+*.json
+*.csv
+
+# File Names
+.Rhistory
