@@ -8,3 +8,4 @@ venv/
 
 # File Names
 .Rhistory
+.ipynb_checkpoints
